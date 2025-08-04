@@ -35,8 +35,8 @@ body {
     border: none;
     color: #fff;
     background-color: var(--clr);
-    padding: 12px 24px;
+    padding: 30px 34px;
     margin-inline: 12px;
-    border-radius: 8px;
+    border-radius: 20px;
     cursor: pointer;
 }
